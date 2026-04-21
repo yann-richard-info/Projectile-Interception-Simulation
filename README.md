@@ -141,7 +141,6 @@ Iterates through angles from 0° to 90° and uses a bracketing method to detect 
 
 -  Implement additional physical forces such as **wind force**, **air resistance**, to improve simulation realism.
 - Define constants `G` and `PI` using `#define` directives in the header file.
-- Allow parameters to be passed via command-line arguments (`argc`, `argv`).
 - Load initial conditions from a configuration file.
 - Add graphical visualization of the interceptor and projectile trajectories.
 - Implement a feature to save and load simulation parameters for later use.
@@ -159,8 +158,9 @@ The source code for this project is available on GitHub:
 
 ## Contributors
 
-- Yann RICHARD
 - Lucas BASSON
+- Yann RICHARD
+
 
 ---
 ## Acknowledgments
