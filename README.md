@@ -153,7 +153,7 @@ Iterates through angles from 0° to 90° and uses a bracketing method to detect 
 
 The source code for this project is available on GitHub:
 
-[Projectile Interception Simulation](https://github.com/yann-richard-info/Projectile-Interception-Simulation/tree/main)
+- [Projectile Interception Simulation](https://github.com/yann-richard-info/Projectile-Interception-Simulation/tree/main)
 
 
 ---
