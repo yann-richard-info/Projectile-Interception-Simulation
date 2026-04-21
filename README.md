@@ -9,7 +9,7 @@ The user enters the initial conditions for both projectiles. The program checks 
 ---
 ## Screenshots
 
-![Interception Simulation Screenshot]([https://github.com/votre-utilisateur/votre-depot/raw/main/screenshot.png](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/image_interception.png?raw=true))
+![Interception Simulation Screenshot](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/image_interception.png?raw=true)
 
 ---
 ## Prerequisites
