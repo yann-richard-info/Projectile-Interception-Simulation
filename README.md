@@ -32,7 +32,16 @@ The user enters the initial conditions for both projectiles. The program checks 
 > ⚠️ If the compiler is not detected, check the MinGW path under **Settings > Compiler > Toolchain executables**.
 
 ---
+## Project Files
 
+Here are the main files of the project:
+
+- [Main Source Code (`main.cpp`)](https://github.com/votre-utilisateur/votre-depot/blob/main/main.cpp)
+- [Library Header (`ma_bibliotheque.h`)](https://github.com/votre-utilisateur/votre-depot/blob/main/ma_bibliotheque.h)
+- [Library Source (`ma_bibliotheque.cpp`)](https://github.com/votre-utilisateur/votre-depot/blob/main/ma_bibliotheque.cpp)
+- [CodeBlocks Project File (`Saé_Info.cbp`)](https://github.com/votre-utilisateur/votre-depot/blob/main/Saé_Info.cbp)
+
+---
 ## User Guide
 
 On startup, the program prompts for the following inputs one by one:
