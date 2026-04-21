@@ -7,7 +7,6 @@ This C++ program calculates whether an **interceptor** can shoot down a **projec
 The user enters the initial conditions for both projectiles. The program checks whether a valid launch angle exists for the interceptor by scanning angles from 0° to 90° using a bracketing method. If a solution exists and the firing delay is positive, it displays the results. Otherwise, it asks for new parameters until a valid configuration is found.
 
 ---
-## Screenshots
 
 ![Interception Simulation Screenshot](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/image_interception.png?raw=true)
 
