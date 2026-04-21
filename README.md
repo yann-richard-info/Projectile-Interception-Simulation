@@ -57,7 +57,7 @@ Entrer la vitesse initiale de l'intercepteur vi (m/s) :
 
 If no interception solution is found, or if the firing delay is negative (the interceptor cannot reach the missile in time), the program displays an error message and asks for new inputs.
 
-![Valeur test ](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/Valeur_test_interception.png)
+![Valeur test ](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/Valeur_test_interception.png?raw=true)
 ---
 
 ## Project Structure
