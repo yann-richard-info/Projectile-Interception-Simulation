@@ -58,18 +58,6 @@ Entrer la vitesse initiale de l'intercepteur vi (m/s) :
 
 If no interception solution is found, or if the firing delay is negative (the interceptor cannot reach the missile in time), the program displays an error message and asks for new inputs.
 
-### Example output
-
-```
-Altitude projectile : 211.71 m
-Encadrement trouve entre 63° et 64°
-Altitude du projectile au point d'interception : 211.71 m
-Angle de tir de l'intercepteur : 63.14 deg
-Temps de vol du projectile : 4.24 s
-Temps de vol de l'intercepteur : 4.15 s
-Decalage entre les tirs : 0.09 s
-```
-
 ---
 
 ## Project Structure
@@ -161,9 +149,12 @@ Iterates through angles from 0° to 90° and uses a bracketing method to detect 
 
 ---
 
-## License
+## GitHub Repository
 
-This project is distributed under the **MIT License**.
+The source code for this project is available on GitHub:
+
+[Projectile Interception Simulation](https://github.com/yann-richard-info/Projectile-Interception-Simulation/tree/main)
+
 
 ---
 
@@ -184,8 +175,5 @@ For any questions or suggestions, contact us at:
 [yann.richard@etu.univ-st-etienne.fr](mailto:yann.richard@etu.univ-st-etienne.fr) or
 [lucas.basson@etu.univ-st-etienne.fr](mailto:lucas.basson@etu.univ-st-etienne.fr)
 
-## GitHub Repository
+---
 
-The source code for this project is available on GitHub:
-
-[Projectile Interception Simulation](https://github.com/yann-richard-info/Projectile-Interception-Simulation/tree/main)
