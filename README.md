@@ -183,3 +183,9 @@ We would like to thank our professors at Université Jean Monnet Saint-Étienne 
 For any questions or suggestions, contact us at:
 [yann.richard@etu.univ-st-etienne.fr](mailto:yann.richard@etu.univ-st-etienne.fr) or
 [lucas.basson@etu.univ-st-etienne.fr](mailto:lucas.basson@etu.univ-st-etienne.fr)
+
+## GitHub Repository
+
+The source code for this project is available on GitHub:
+
+[Projectile Interception Simulation](https://github.com/yann-richard-info/Projectile-Interception-Simulation/tree/main)
