@@ -36,10 +36,10 @@ The user enters the initial conditions for both projectiles. The program checks 
 
 Here are the main files of the project:
 
-- [Main Source Code (`main.cpp`)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/main.cpp)
-- [Library Header (`ma_bibliotheque.h`)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/ma_bibliotheque.h)
-- [Library Source (`ma_bibliotheque.cpp`)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/ma_bibliotheque.cpp)
-- [CodeBlocks Project File (`Saé_Info.cbp`)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/Sa%C3%A9_Info.cbp)
+- [Main Source Code (main.cpp)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/main.cpp)
+- [Library Header (ma_bibliotheque.h)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/ma_bibliotheque.h)
+- [Library Source (ma_bibliotheque.cpp)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/ma_bibliotheque.cpp)
+- [Project file (Saé_Info.cbp)](https://github.com/yann-richard-info/Projectile-Interception-Simulation/blob/main/Sa%C3%A9_Info.cbp)
 
 ---
 ## User Guide
